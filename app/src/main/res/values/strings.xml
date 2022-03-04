@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">decibel</string>
+    <string name="service_desc">show system volume slider</string>
+</resources>
