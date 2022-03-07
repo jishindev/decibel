@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">decibel</string>
+
     <string name="service_desc">show system volume slider</string>
+
+    <string name="settings">settings</string>
+    <string name="show_volume_slider">show volume slider</string>
+    <string name="enable_service_title">enable decibel</string>
+    <string name="enable_service_desc">decibel accessibility service is not enabled from the settings.\n\n please enable the shortcut to use decibel.</string>
+    <string name="go_to_settings">go to settings</string>
+    <string name="dismiss">dismiss</string>
+    <string name="audio_stream">Audio stream</string>
 </resources>

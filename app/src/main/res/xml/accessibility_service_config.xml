@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accessibilityFlags="flagDefault|flagRequestAccessibilityButton"
     android:canRetrieveWindowContent="true"
+    android:accessibilityFlags="flagDefault|flagRequestAccessibilityButton"
     android:notificationTimeout="100"
-    android:description="@string/service_desc" /><!--
-    android:settingsActivity="dev.jishin.android.decibel.MainActivity"-->
+    android:animatedImageDrawable="@mipmap/ic_launcher_round"
+    android:accessibilityFeedbackType="feedbackHaptic"
+    android:settingsActivity="dev.jishin.android.decibel.SettingsActivity"
+    android:description="@string/service_desc" /><!---->
